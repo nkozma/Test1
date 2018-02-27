@@ -5,4 +5,6 @@ public static void main (String[] arg)
   for(int n=0; n<i; n++)
   System.out.println("Hello");
   System.out.println("You came to the wrong hood");
+  System.out.println("Hello");
+  System.out.println("Hello Again");
 }
